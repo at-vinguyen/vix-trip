@@ -1,7 +1,7 @@
 {
-  "name": "starter-app",
+  "name": "trip",
   "version": "0.0.1",
-  "description": "The name is wfeApp, which is an AngularJS Tutorial Application.",
+  "description": "Trip - Angular Beginer",
   "scripts": {
     "postinstal": "bower install",
     "prestart": "npm install",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/at-hungbcp/angular-starter-app.git"
+    "url": "git+https://github.com/at-vinht/vix-trip.githttps://github.com/at-vinht/vix-trip/issues"
   },
-  "author": "Hung BCP",
+  "author": "Vix Nguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/at-hungbcp/angular-starter-app/issues"
+    "url": "https://github.com/at-vinht/vix-trip/issues"
   },
-  "homepage": "https://github.com/at-hungbcp/angular-starter-app#readme",
+  "homepage": "https://github.com/at-vinht/vix-trip#readme",
   "private": true,
   "devDependencies": {
     "bower": "^1.7.7",

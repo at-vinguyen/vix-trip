@@ -1,9 +1,9 @@
 {
-  "name": "starter-app",
+  "name": "trip",
   "version": "0.0.1",
-  "description": "The name is wfeApp, which is an AngularJS Tutorial Application.",
+  "description": "Trip - Angular Beginer",
   "authors": [
-    "Hung BCP"
+    "Vix Nguyen"
   ],
   "license": "MIT",
   "homepage": "https://github.com/at-hungbcp/angular-starter-app",
